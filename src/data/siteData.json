@@ -1,0 +1,278 @@
+{
+  "name": "Muzamil Javed",
+  "role": "Consultant Nutritionist & Dietitian",
+  "tagline": "Transforming health outcomes through evidence-based nutrition and clinical expertise.",
+  "summary": "Dynamic nutrition professional with MS in Human Nutrition and Dietetics, driven by commitment to improving health at individual and community levels. Expertise in clinical nutrition, diet planning, pediatric nutrition, and diabetic management.",
+  "contact": {
+    "phone": "+92-306-3646524",
+    "email": "mianmuzamiljaved00@gmail.com",
+    "location": "Rahim Yar Khan, Pakistan"
+  },
+  "skills": {
+    "Clinical Skills": [
+      { "name": "Clinical Nutrition", "level": 9 },
+      { "name": "Diet Planning & Assessment", "level": 9 },
+      { "name": "Counseling & MNT", "level": 9 },
+      { "name": "Pediatric Nutrition", "level": 8 },
+      { "name": "Diabetic Management", "level": 8 }
+    ],
+    "Professional Skills": [
+      { "name": "Research & Publication", "level": 8 },
+      { "name": "Public Speaking", "level": 8 },
+      { "name": "Workshop Facilitation", "level": 7 },
+      { "name": "Team Leadership", "level": 8 },
+      { "name": "Evidence-Based Practice", "level": 9 }
+    ],
+    "Communication": [
+      { "name": "Verbal & Written Communication", "level": 9 },
+      { "name": "Empathetic Counseling", "level": 9 },
+      { "name": "Leadership", "level": 8 },
+      { "name": "Critical Thinking", "level": 8 },
+      { "name": "Time Management", "level": 9 }
+    ],
+    "Languages": [
+      { "name": "English", "level": 9 },
+      { "name": "Urdu", "level": 10 },
+      { "name": "Punjabi", "level": 9 },
+      { "name": "Saraiki", "level": 8 }
+    ]
+  },
+  "education": [
+    {
+      "id": 1,
+      "degree": "MS Human Nutrition and Dietetics",
+      "institution": "Khwaja Fareed University of Engineering & Information Technology",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2023 - Current"
+    },
+    {
+      "id": 2,
+      "degree": "BS Human Nutrition and Dietetics",
+      "institution": "Khwaja Fareed University of Engineering & Information Technology",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2019 - 2023"
+    },
+    {
+      "id": 3,
+      "degree": "Diploma Facial Aesthetics",
+      "institution": "M. Aesthetics Clinic and Training Institute",
+      "location": "Lahore, Pakistan",
+      "year": "2024"
+    },
+    {
+      "id": 4,
+      "degree": "Intermediate (FSc)",
+      "institution": "Punjab Daanish School Boys",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2016"
+    },
+    {
+      "id": 5,
+      "degree": "Matric (Science)",
+      "institution": "Punjab Daanish School Boys",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2014"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Certified Nutrition Consultant for Pediatric Nutrition",
+      "issuer": "SNCP",
+      "year": "2023"
+    },
+    {
+      "id": 2,
+      "name": "Certified Nutrition Consultant for Diabetic Patients",
+      "issuer": "SNCP",
+      "year": "2023"
+    },
+    {
+      "id": 3,
+      "name": "Food Product Development",
+      "issuer": "SNCP",
+      "year": "2023"
+    },
+    {
+      "id": 4,
+      "name": "Nutrition Psychology",
+      "issuer": "SNCP",
+      "year": "2023"
+    },
+    {
+      "id": 5,
+      "name": "Dietary Intake instead of Supplements",
+      "issuer": "SNCP",
+      "year": "2023"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "company": "Al-Ghaffar Surgical and Children Hospital",
+      "title": "Consultant Dietitian / Nutritionist & Aesthetician",
+      "location": "Sadiq Abad, Pakistan",
+      "period": "Oct 2024 – Current",
+      "highlights": [
+        "Providing comprehensive clinical nutrition services and patient counseling",
+        "Diet planning and nutritional assessment for pediatric and adult patients",
+        "Aesthetic consultation and treatment planning",
+        "Collaboration with medical team for patient care management"
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Aga Khan University Karachi",
+      "title": "Senior Research Associate",
+      "location": "Rahim Yar Khan, Pakistan",
+      "period": "Apr 2024 – Sep 2024",
+      "highlights": [
+        "Women supporting women using local solutions initiative",
+        "Research on infant and young child feeding practices",
+        "Care practices improvement in Punjab, Pakistan",
+        "Data collection and analysis for nutrition research"
+      ]
+    },
+    {
+      "id": 3,
+      "company": "Al Rehman Medical Complex",
+      "title": "Consultant Nutritionist",
+      "location": "Sadiqabad, Pakistan",
+      "period": "Jul 2023 – Sep 2023",
+      "highlights": [
+        "Patient nutrition consultation and diet planning",
+        "Medical nutrition therapy (MNT) implementation",
+        "Dietary counseling for various medical conditions"
+      ]
+    },
+    {
+      "id": 4,
+      "company": "THQ Hospital Sadiq Abad",
+      "title": "Consultant Nutritionist",
+      "location": "Sadiq Abad, Pakistan",
+      "period": "Jun 2023 – Sep 2023",
+      "highlights": [
+        "In-hospital nutritional assessment and monitoring",
+        "Clinical nutrition care planning",
+        "Patient education on nutrition and lifestyle modifications"
+      ]
+    }
+  ],
+  "trainings": [
+    {
+      "id": 1,
+      "role": "Internee",
+      "organization": "Evercare Hospital, Lahore",
+      "location": "Lahore, Pakistan",
+      "period": "Mar 2023 – May 2023",
+      "description": "Clinical nutrition internship"
+    },
+    {
+      "id": 2,
+      "role": "Internee",
+      "organization": "Sheikh Zayed Medical College (SZMC)",
+      "location": "Rahim Yar Khan, Pakistan",
+      "period": "Jun 2022 – Aug 2022",
+      "description": "Medical nutrition therapy and clinical practice"
+    },
+    {
+      "id": 3,
+      "role": "Internee",
+      "organization": "Student Nutritionist Club Pakistan (SNCP)",
+      "location": "Rahim Yar Khan, Pakistan",
+      "period": "Jul 2021 – Sep 2021",
+      "description": "Nutrition research and community outreach"
+    }
+  ],
+  "administrative_experience": [
+    {
+      "id": 1,
+      "role": "Society President",
+      "organization": "Institute of Food Science and Technology",
+      "institution": "Khwaja Fareed University of Engineering and Information Technology",
+      "location": "Rahim Yar Khan, Pakistan",
+      "period": "Oct 2023 – Oct 2024"
+    },
+    {
+      "id": 2,
+      "role": "Organizer",
+      "event": "1st International Conference on Sustainable Approaches in Food & Nutrition Systems (ICSFNS2023)",
+      "institution": "Khwaja Fareed University of Engineering and Information Technology",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2023"
+    },
+    {
+      "id": 3,
+      "role": "Organizer",
+      "event": "Annual Dinner 2021",
+      "organization": "Institute of Food Science and Technology",
+      "institution": "Khawaja Fareed University of Engineering and Technology",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2021"
+    },
+    {
+      "id": 4,
+      "role": "Sports Coordinator & Event Management Organizer",
+      "organization": "Culture and Versa Society",
+      "institution": "Khwaja Fareed University of Engineering and Information Technology",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2023"
+    },
+    {
+      "id": 5,
+      "role": "General Secretary",
+      "organization": "Culture and Versa Society",
+      "institution": "Khwaja Fareed University of Engineering and Technology",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2023"
+    },
+    {
+      "id": 6,
+      "role": "Assistant Sports Secretary",
+      "organization": "Institute of Food Science and Technology",
+      "institution": "Khwaja Fareed University of Engineering and Technology",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2023"
+    },
+    {
+      "id": 7,
+      "role": "Dorm Captain",
+      "institution": "Punjab Daanish School (Boys)",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2017 - 2018"
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "title": "Instructor - Certified Nutrition Consultant for Pediatric Nutrition Pakistan",
+      "organization": "SNCP",
+      "location": "Lahore, Pakistan",
+      "date": "May 22, 2023"
+    },
+    {
+      "id": 2,
+      "title": "2nd Position - Product Development (Supplement)",
+      "event": "South Punjab Mella",
+      "institution": "Khawaja Fareed UEIT",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2021"
+    },
+    {
+      "id": 3,
+      "title": "Participant",
+      "event": "South Punjab Mella - Product Development Category",
+      "institution": "Khawaja Fareed University",
+      "location": "Rahim Yar Khan, Pakistan",
+      "year": "2021"
+    }
+  ],
+  "research": [
+    {
+      "id": 1,
+      "title": "Effect of Dietary Habits and Supplements on Nutritional Status of Polycystic Ovaries Syndrome Patients",
+      "doi": "https://doi.org/10.63163/jpehss.v3i1.189",
+      "status": "Published"
+    }
+  ]
+}
